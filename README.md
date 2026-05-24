@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/hold-my-hand/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Hold My Hand](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hold-my-hand/) |
+| **Get License** | [Get License For Hold My Hand](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hold-my-hand/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Pull a little closer, leave the world outside
+> Let the shadows fall, we have nothing left to hide
+> I can feel the rhythm, the beating of your heart
+> Hold my hand right now, and let the magic start
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
