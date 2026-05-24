@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/hold-my-hand/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Hold My Hand](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hold-my-hand/) |
+| **Get License** | [Official Music Licensing for Hold My Hand](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hold-my-hand/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0c91ae35468f98ebe97ff121dcce0308c4ed25ba5ea4778c4fb06dbb934ce99a` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
